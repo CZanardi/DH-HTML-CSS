@@ -1,0 +1,13 @@
+SEO: Search engine optimization
+
+ - antigamente era por palavras chave
+ - hoje em dia os títulos são importantes para o SEO, h1 até h4 são importantes para o SEO. Essas TAGS são semânticas então tem é bom ter palavras relevantes nelas para melhorar o SEO do site
+ - tag <strong> também é lida pelos SEO e melhorar a relevância do site. ela é usada num parágrafo para palavras que são relevantes é usado assim: bla bla bla <strong>aprender a programar</strong>
+
+
+Site bom para consultar códigos:
+
+https://www.w3schools.com/
+
+Boas práticas para consulta e validação de códigos
+https://www.w3.org/
